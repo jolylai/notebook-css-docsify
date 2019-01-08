@@ -1,4 +1,6 @@
 - **Introduction**
-	- [About CSS Tricks](/README.md)
+	- [About CSS Notebook](/README.md)
 - **Flex**
-  - [Align item](/align-content.md)
+  - [align-content](/flex-align-content.md)
+  - [align-items](/flex-align-items.md)
+  - [align-self](/flex-align-self.md)
