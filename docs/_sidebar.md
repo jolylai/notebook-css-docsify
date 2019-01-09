@@ -1,6 +1,13 @@
 - **Introduction**
-	- [About CSS Notebook](/README.md)
+  - [About CSS Notebook](/README.md)
 - **Flex**
+  - [flex](/flex.md)
+  - [flex-direction](/flex-direction.md)
   - [align-content](/flex-align-content.md)
   - [align-items](/flex-align-items.md)
   - [align-self](/flex-align-self.md)
+  - [justify-content](/flex-justify-content.md)
+  - [order](/flex-order.md)
+  - [flex-grow](/flex-grow.md)
+  - [flex-shrink](/flex-shrink.md)
+  - [flex-basis](/flex-basis.md)
