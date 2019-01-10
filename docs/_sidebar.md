@@ -1,6 +1,7 @@
 - **Introduction**
   - [About CSS Notebook](/README.md)
-- **Flex**
+- **Flex 布局**
+
   - [flex](/flex.md)
   - [flex-direction](/flex-direction.md)
   - [align-content](/flex-align-content.md)
@@ -11,3 +12,6 @@
   - [flex-grow](/flex-grow.md)
   - [flex-shrink](/flex-shrink.md)
   - [flex-basis](/flex-basis.md)
+
+- 用户体验
+  - [展开收起效果](/experience-foldable.md)
