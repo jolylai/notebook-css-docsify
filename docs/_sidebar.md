@@ -13,5 +13,9 @@
   - [flex-shrink](/flex-shrink.md)
   - [flex-basis](/flex-basis.md)
 
+- **Background**
+
+  - [background-attachment](/background-attachment.md)
+
 - 用户体验
   - [展开收起效果](/experience-foldable.md)

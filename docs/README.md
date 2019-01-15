@@ -1,3 +1,3 @@
-# Headline
+# Notebook CSS
 
-> An awesome project.
+> An awesome project about CSS
