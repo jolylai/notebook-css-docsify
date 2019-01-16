@@ -16,6 +16,7 @@
 - **Background**
 
   - [background-attachment](/background-attachment.md)
+  - [background-clip](/background-clip.md)
 
 - 用户体验
   - [展开收起效果](/experience-foldable.md)
