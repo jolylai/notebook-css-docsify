@@ -1,4 +1,4 @@
-# transition-delay
+# transition
 
 ?> transition-property transition-duration transition-timing-function 和 transition-delay 的简写。只有 `transition-duration` 必传；
 
