@@ -18,5 +18,10 @@
   - [background-attachment](/background-attachment.md)
   - [background-clip](/background-clip.md)
 
+- **Transition**
+
+  - [transition](./transition.md)
+  - [transition-delay](./transition-delay.md)
+
 - 用户体验
   - [展开收起效果](/experience-foldable.md)
