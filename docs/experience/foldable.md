@@ -11,7 +11,7 @@
   <div v-bind:class="{foldable:true, unFold: !isFold}">
     <p>隐藏的内容...</p>
   </div>
-  <span v-on:click='toggle'>{{isFold ? '更多↓' : '收起↑'}}</span>
+  <span v-on:click='toggle'>{{isFold ? '更多 ↓' : '收起 ↑'}}</span>
 </main>
 </template>
 <style>

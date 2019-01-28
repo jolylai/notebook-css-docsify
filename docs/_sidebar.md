@@ -1,27 +1,29 @@
 - **Introduction**
   - [About CSS Notebook](/README.md)
-- **Flex 布局**
 
-  - [flex](/flex.md)
-  - [flex-direction](/flex-direction.md)
-  - [align-content](/flex-align-content.md)
-  - [align-items](/flex-align-items.md)
-  - [align-self](/flex-align-self.md)
-  - [justify-content](/flex-justify-content.md)
-  - [order](/flex-order.md)
-  - [flex-grow](/flex-grow.md)
-  - [flex-shrink](/flex-shrink.md)
-  - [flex-basis](/flex-basis.md)
+* **Flex 布局**
 
-- **Background**
+  - [flex](/flex/flex.md)
+  - [flex-direction](/flex/flex-direction.md)
+  - [align-content](/flex/flex-align-content.md)
+  - [align-items](/flex/flex-align-items.md)
+  - [align-self](/flex/flex-align-self.md)
+  - [justify-content](/flex/flex-justify-content.md)
+  - [order](/flex/flex-order.md)
+  - [flex-grow](/flex/flex-grow.md)
+  - [flex-shrink](/flex/flex-shrink.md)
+  - [flex-basis](/flex/flex-basis.md)
 
-  - [background-attachment](/background-attachment.md)
-  - [background-clip](/background-clip.md)
+* **Background**
 
-- **Transition**
+  - [background-attachment](/background/background-attachment.md)
+  - [background-clip](/background/background-clip.md)
 
-  - [transition](./transition.md)
-  - [transition-delay](./transition-delay.md)
+* **Transition**
 
-- 用户体验
-  - [展开收起效果](/experience-foldable.md)
+  - [transition](/transition/transition.md)
+  - [transition-delay](/transition/transition-delay.md)
+
+* 用户体验
+  - [展开收起效果](/experience/foldable.md)
+  - [定义列表](/experience/definition-list.md)
